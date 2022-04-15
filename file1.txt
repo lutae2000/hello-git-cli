@@ -1,5 +1,9 @@
 hello git
 second
+<<<<<<< HEAD
 third - my branch
 fourth
 some hot fix
+=======
+기능1 추가
+>>>>>>> e3f6d5f (기능1 추가)
